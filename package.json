@@ -1,0 +1,24 @@
+{
+  "name": "prism-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@stoplight/prism-core": "^4.3.1",
+    "@stoplight/prism-cli": "^4.3.1",
+    "@stoplight/prism-http-server": "^4.3.1",
+    "@types/axios": "^0.14.0",
+    "@types/jest": "^24.0.22",
+    "@types/node": "^12.12.7",
+    "axios": "^0.19.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {}
+}
